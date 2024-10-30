@@ -1,0 +1,14 @@
+
+ali@gmail.com
+ali
+1234
+========
+minikub start
+minikub dashboard
+
+
+
+kubectl port-forward service/backend 5000:5000
+kubectl port-forward service/frontend 80:80
+
+http://localhost/
